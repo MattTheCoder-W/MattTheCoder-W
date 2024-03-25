@@ -1,4 +1,4 @@
-## 👋🏻 Cześć, jestem Mateusz Wasążnik
+## 👋🏻 Cześć, jestem Mateusz
 
 ### O mnie
 
@@ -7,5 +7,10 @@ Jestem pasjonatem programowania, specjalizującym się w technologiach takich ja
 ---
 
 <div>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-</div> -->
+  <img style="width: 10%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img style="width: 10%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img style="width: 10%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img style="width: 10%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img style="width: 10%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img style="width: 10%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+</div>
